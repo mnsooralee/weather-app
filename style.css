@@ -99,10 +99,10 @@ body {
     }
     .search {
         flex-direction: column;
-        gap: 2rem;
+        gap: 1rem;
     }
     .weather img {
-        width: 100px;
+/*         width: 100px; */
         margin-right: 10px;
         margin-top: 10px;
     }
