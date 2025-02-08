@@ -92,6 +92,9 @@ body {
 
 }
 @media screen and (max-width:650px) {
+    .card {
+        margin: 10px auto 0;
+    }
     .search {
         flex-direction: column;
         gap: 2rem;
