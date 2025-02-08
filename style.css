@@ -94,5 +94,6 @@ body {
 @media screen and (max-width:650px) {
     .search {
         flex-direction: column;
+        gap: 2rem;
     }
 }
